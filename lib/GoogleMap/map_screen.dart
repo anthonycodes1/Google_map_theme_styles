@@ -8,6 +8,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../jh_custom_marker.dart';
 import '../jh_logger.dart';
 
+///Google map screen
 class GoogleMapScreen extends StatefulWidget {
   const GoogleMapScreen({Key? key}) : super(key: key);
 
